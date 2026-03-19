@@ -1,0 +1,417 @@
+[
+  {
+    "slug": "automobilindustrie",
+    "name": "Automobilindustrie",
+    "title": "LLMO Check für die Automobilindustrie | KI-Sichtbarkeit prüfen | llmo-check.de",
+    "meta_description": "LLMO Check für die Automobilindustrie: Erfahren Sie, wie ChatGPT, Claude und Gemini Ihr Automobilunternehmen darstellen und empfehlen. Jetzt KI-Sichtbarkeit prüfen.",
+    "keywords": "LLMO Check Automobilindustrie, KI Sichtbarkeit Automobilbranche, ChatGPT Automarke, LLMO Automotive, GEO Automobil",
+    "h1": "LLMO Check für die Automobilindustrie: Wie sichtbar ist Ihr Unternehmen in ChatGPT & Co.?",
+    "hero_text": "Die Automobilindustrie durchlebt einen fundamentalen Wandel – nicht nur technologisch, sondern auch in der Art, wie Kunden Kaufentscheidungen treffen. Immer mehr Interessenten fragen ChatGPT nach Fahrzeugempfehlungen, Vergleichen und Händlerbewertungen. Der LLMO Check zeigt Ihnen, wie KI-Modelle Ihre Marke wahrnehmen.",
+    "problem_h2": "Warum LLMO für die Automobilindustrie unverzichtbar ist",
+    "problem_paragraphs": [
+      "Die Customer Journey im Automobilbereich hat sich grundlegend verändert. Potenzielle Käufer nutzen zunehmend KI-Assistenten wie ChatGPT, Claude und Google Gemini, um Fahrzeugmodelle zu vergleichen, Vor- und Nachteile abzuwägen und Händlerempfehlungen einzuholen. Eine Studie aus dem Jahr 2025 zeigt, dass bereits 34 Prozent aller Neuwagenkäufer KI-gestützte Recherche als Teil ihres Kaufprozesses nutzen.",
+      "Für Automobilhersteller, Zulieferer und Händler bedeutet das: Wer in den Antworten der großen Sprachmodelle nicht vorkommt, verliert potenzielle Kunden, bevor diese überhaupt ein Autohaus betreten. Besonders kritisch ist dies bei Vergleichsanfragen wie 'Welcher SUV ist der beste für Familien?' oder 'Welcher Elektroauto-Hersteller hat das beste Preis-Leistungs-Verhältnis?'.",
+      "Der LLMO Check für die Automobilindustrie analysiert systematisch, wie ChatGPT, Claude und Gemini über Ihre Marke, Ihre Fahrzeugmodelle und Ihre Händler sprechen. Werden Sie bei relevanten Kaufanfragen empfohlen? Wie fällt das Sentiment aus? Welche Wettbewerber werden stattdessen genannt? Diese Fragen beantwortet unser Audit präzise und datenbasiert.",
+      "Besonders für den deutschen Automobilmarkt – mit seiner starken OEM-Landschaft von Mercedes-Benz über BMW bis Volkswagen und aufstrebenden Elektromarken – ist die Position in KI-Antworten ein entscheidender Wettbewerbsfaktor. Zulieferer wie Bosch, Continental oder ZF profitieren ebenfalls von einer starken LLM-Präsenz, wenn Einkäufer und Ingenieure KI zur Recherche nutzen."
+    ],
+    "analysis_h2": "Was der LLMO Check in der Automobilindustrie analysiert",
+    "analysis_intro": "Sechs spezialisierte Analysebereiche, zugeschnitten auf die Anforderungen der Automobilbranche.",
+    "analysis": [
+      [
+        "Fahrzeugempfehlungen",
+        "Werden Ihre Modelle bei Kaufberatungsanfragen in ChatGPT und Co. empfohlen? Wir prüfen typische Vergleichsszenarien und Kategorien wie SUV, Elektro, Kompaktwagen."
+      ],
+      [
+        "Händler-Sichtbarkeit",
+        "Wie sichtbar sind Ihre Autohäuser und Vertriebspartner in lokalen KI-Anfragen? Wir analysieren regionale Empfehlungsmuster und Standortnennung."
+      ],
+      [
+        "Marken-Sentiment",
+        "In welchem Ton sprechen KI-Modelle über Ihre Marke? Wir untersuchen, ob Qualität, Innovation und Zuverlässigkeit korrekt kommuniziert werden."
+      ],
+      [
+        "Wettbewerbervergleich",
+        "Wie schneiden Sie im direkten Vergleich mit BMW, Mercedes, VW, Tesla oder anderen Marken in KI-Antworten ab? Detailliertes Benchmarking."
+      ],
+      [
+        "E-Mobilität & Innovation",
+        "Wird Ihr Unternehmen als innovativ und zukunftsorientiert dargestellt? Wir prüfen Nennungen im Kontext von Elektromobilität und autonomem Fahren."
+      ],
+      [
+        "Zulieferer-Reputation",
+        "Für Zulieferer: Werden Sie als kompetenter Partner in der Lieferkette erwähnt? Analyse der B2B-Sichtbarkeit in KI-gestützten Recherchen."
+      ]
+    ],
+    "prompts_h2": "Typische KI-Anfragen in der Automobilindustrie",
+    "prompts_intro": "Diese Fragen stellen Nutzer täglich an ChatGPT, Claude und Gemini. Wird Ihre Marke in den Antworten erwähnt?",
+    "prompts": [
+      "Welcher Elektro-SUV hat 2025 das beste Preis-Leistungs-Verhältnis?",
+      "Welche deutschen Autohersteller sind bei Elektroautos führend?",
+      "Wo finde ich einen guten BMW-Händler in meiner Nähe?",
+      "Welche Automobilzulieferer sind Marktführer bei Batterietechnologie?",
+      "Was sind die zuverlässigsten Automarken in Deutschland?",
+      "Lohnt sich ein Hybrid oder ein reines Elektroauto mehr?"
+    ],
+    "actions_h2": "LLMO-Optimierung für die Automobilindustrie: Konkrete Maßnahmen",
+    "action_paragraphs": [
+      "<strong>Strukturierte Fahrzeugdaten aufbereiten:</strong> Stellen Sie sicher, dass Ihre Website umfassende, strukturierte Informationen zu jedem Modell enthält – inklusive technischer Daten, Preise, Vergleichstabellen und Kundenbewertungen. JSON-LD Schema Markup für Produkte und Bewertungen hilft KI-Modellen, Ihre Daten korrekt zu interpretieren.",
+      "<strong>Autoritative Brancheninhalte publizieren:</strong> Veröffentlichen Sie regelmäßig Fachartikel, Studien und Whitepapers zu Themen wie Elektromobilität, Nachhaltigkeit und Mobilitätskonzepte. Werden Sie zur zitierbaren Quelle in Ihrem Segment – das stärkt Ihre Entity Authority in den Trainingsdaten der LLMs.",
+      "<strong>Lokale Präsenz optimieren:</strong> Für Händlerbetriebe ist die Optimierung lokaler Verzeichniseinträge, Google Business Profile und Branchenportale entscheidend. KI-Modelle greifen auf diese Daten zurück, um lokale Empfehlungen auszusprechen.",
+      "<strong>PR und Medienarbeit intensivieren:</strong> Positive Berichterstattung in Fachmedien (Auto Motor und Sport, auto motor sport, Automobilwoche) sowie in Wirtschaftsmedien stärkt das LLM-Sentiment nachhaltig. Investieren Sie in kontinuierliche Pressearbeit und Thought-Leadership-Beiträge."
+    ],
+    "faq": [
+      [
+        "Warum ist LLMO für die Automobilindustrie wichtig?",
+        "KI-Assistenten werden zunehmend für Fahrzeugvergleiche und Kaufberatung genutzt. Über 34% der Neuwagenkäufer nutzen bereits KI-gestützte Recherche. Wer in den Antworten nicht vorkommt, verliert potenzielle Kunden."
+      ],
+      [
+        "Was analysiert der LLMO Check speziell für die Autobranche?",
+        "Wir prüfen Fahrzeugempfehlungen, Händler-Sichtbarkeit, Marken-Sentiment, Wettbewerbervergleiche, Nennungen im Kontext E-Mobilität und die B2B-Sichtbarkeit für Zulieferer."
+      ],
+      [
+        "Wie lange dauert ein LLMO Check für ein Automobilunternehmen?",
+        "Ein vollständiger LLMO Check dauert 3-5 Werktage. Erste Erkenntnisse erhalten Sie innerhalb von 48 Stunden. Der finale Report enthält priorisierte Maßnahmen."
+      ],
+      [
+        "Können auch Automobilzulieferer vom LLMO Check profitieren?",
+        "Absolut. Zulieferer profitieren besonders von der B2B-Sichtbarkeitsanalyse. Wir prüfen, ob Sie bei technischen Recherchen von Einkäufern und Ingenieuren als kompetenter Partner empfohlen werden."
+      ],
+      [
+        "Was kostet ein LLMO Check für die Automobilindustrie?",
+        "Der initiale LLMO Check ist kostenlos. Er umfasst eine Erstanalyse Ihrer KI-Sichtbarkeit mit den wichtigsten Erkenntnissen und Handlungsempfehlungen."
+      ]
+    ]
+  },
+  {
+    "slug": "maschinenbau",
+    "name": "Maschinenbau",
+    "title": "LLMO Check für den Maschinenbau | KI-Sichtbarkeit prüfen | llmo-check.de",
+    "meta_description": "LLMO Check für den Maschinenbau: Wie sichtbar ist Ihr Maschinenbauunternehmen in ChatGPT, Claude und Gemini? Jetzt KI-Sichtbarkeit analysieren lassen.",
+    "keywords": "LLMO Check Maschinenbau, KI Sichtbarkeit Maschinenbau, ChatGPT Maschinenbau, LLMO Industrie 4.0, GEO Engineering",
+    "h1": "LLMO Check für den Maschinenbau: So sicher ist Ihre KI-Sichtbarkeit",
+    "hero_text": "Der deutsche Maschinenbau ist Weltmarktführer in zahlreichen Nischen – doch wissen ChatGPT, Claude und Gemini das auch? Wenn internationale Einkäufer KI-Modelle nach den besten Maschinenbauern fragen, muss Ihr Unternehmen sichtbar sein. Der LLMO Check liefert die Antworten.",
+    "problem_h2": "Warum LLMO im Maschinenbau der entscheidende Wettbewerbsvorteil wird",
+    "problem_paragraphs": [
+      "Der deutsche Maschinenbau erwirtschaftet jährlich über 230 Milliarden Euro Umsatz und ist eine der exportstärksten Branchen der Welt. Einkäufer, Ingenieure und Entscheider aus aller Welt recherchieren zunehmend mit KI-Assistenten nach Maschinenherstellern, Technologien und Zulieferern. Die Frage ist nicht mehr ob, sondern wann KI die traditionelle B2B-Recherche über Messen und Kataloge ablöst.",
+      "Für Hidden Champions und mittelständische Maschinenbauer ist die LLM-Sichtbarkeit besonders kritisch: Während große Konzerne wie Siemens, Trumpf oder DMG Mori naturgemäß eine starke Datenpräsenz haben, fehlen kleinere Spezialisten häufig komplett in den KI-Antworten – selbst wenn sie in ihrer Nische Weltmarktführer sind.",
+      "Der LLMO Check analysiert, ob Ihr Maschinenbauunternehmen bei relevanten B2B-Anfragen in ChatGPT, Claude und Gemini erwähnt wird. Wir fokussieren auf branchenspezifische Prompts wie Technologievergleiche, Anbieterempfehlungen und Innovationsranglisten. Das Ergebnis ist ein klarer Fahrplan zur Stärkung Ihrer KI-Sichtbarkeit.",
+      "Besonders im Kontext von Industrie 4.0, Smart Factory und Automatisierung werden KI-Modelle zunehmend als Wissensquelle genutzt. Werden Sie als Innovationsführer in diesen Zukunftsfeldern wahrgenommen? Unser LLMO Check gibt Ihnen die datenbasierte Antwort."
+    ],
+    "analysis_h2": "Der LLMO Check im Maschinenbau: Unsere Analysebereiche",
+    "analysis_intro": "Speziell auf den B2B-Maschinenbau zugeschnittene Analysemodule für maximale Relevanz.",
+    "analysis": [
+      [
+        "Anbieterempfehlungen",
+        "Werden Sie bei Anfragen wie 'beste CNC-Fräsmaschinen' oder 'führende Spritzgussmaschinenhersteller' empfohlen? Analyse Ihrer Nennungsrate in typischen Einkäufer-Prompts."
+      ],
+      [
+        "Technologie-Positionierung",
+        "Wie stellen KI-Modelle Ihre technologische Kompetenz dar? Analyse der Nennung bei Industrie-4.0- und Automatisierungsthemen."
+      ],
+      [
+        "Export-Sichtbarkeit",
+        "Wie sichtbar sind Sie in englischsprachigen KI-Anfragen? Internationale Einkäufer nutzen ChatGPT in ihrer Muttersprache – wir prüfen Ihre globale LLM-Präsenz."
+      ],
+      [
+        "Wettbewerber-Benchmarking",
+        "Detaillierter Vergleich Ihrer KI-Sichtbarkeit mit direkten Wettbewerbern in Ihrem Maschinenbausegment."
+      ],
+      [
+        "Innovations-Reputation",
+        "Werden Sie bei Fragen zu Digitalisierung, KI-gestützter Produktion und IoT als innovativer Anbieter wahrgenommen?"
+      ],
+      [
+        "Hidden-Champion-Analyse",
+        "Spezialanalyse für Nischenführer: Wird Ihre Marktführerschaft in KI-Modellen korrekt gespiegelt?"
+      ]
+    ],
+    "prompts_h2": "Typische KI-Anfragen im Maschinenbau",
+    "prompts_intro": "B2B-Einkäufer und Ingenieure stellen diese Fragen an KI-Assistenten. Erscheint Ihr Unternehmen in den Antworten?",
+    "prompts": [
+      "Welche deutschen Maschinenbauer sind führend bei CNC-Bearbeitungszentren?",
+      "Was sind die besten Automatisierungslösungen für die Metallverarbeitung?",
+      "Welche Maschinenbauunternehmen investieren am meisten in Industrie 4.0?",
+      "Wer sind die Hidden Champions im deutschen Maschinenbau?",
+      "Beste Hersteller für Verpackungsmaschinen in Europa?",
+      "Welche Unternehmen bieten die zuverlässigsten Industrieroboter?"
+    ],
+    "actions_h2": "LLMO-Strategie für den Maschinenbau: So werden Sie sichtbar",
+    "action_paragraphs": [
+      "<strong>Technische Fachkompetenz dokumentieren:</strong> Publizieren Sie detaillierte Whitepaper, Anwendungsberichte und technische Dokumentationen auf Ihrer Website. KI-Modelle bevorzugen Quellen mit hoher fachlicher Tiefe – genau das, was Maschinenbauer liefern können.",
+      "<strong>Branchenmedien aktiv bespielen:</strong> Präsenz in Fachmedien wie Maschinenmarkt, VDI Nachrichten, Produktion und Industrieanzeiger stärkt Ihre Entity Authority. Regelmäßige Fachbeiträge und Interviews positionieren Sie als Thought Leader.",
+      "<strong>Strukturierte Produktdaten bereitstellen:</strong> Nutzen Sie Schema.org Markup für Ihre Produktkataloge, Maschinenspezifikationen und Service-Angebote. Je strukturierter Ihre Daten sind, desto besser können KI-Modelle sie verarbeiten und in Empfehlungen einbeziehen.",
+      "<strong>Internationale Inhalte erstellen:</strong> Für exportorientierte Maschinenbauer ist mehrsprachiger Content entscheidend. Erstellen Sie hochwertige englischsprachige Inhalte, um auch in globalen KI-Anfragen sichtbar zu sein."
+    ],
+    "faq": [
+      [
+        "Warum brauchen Maschinenbauer einen LLMO Check?",
+        "Internationale Einkäufer und Ingenieure nutzen zunehmend KI-Assistenten für die Anbieterrecherche. Wer als Hidden Champion in KI-Antworten fehlt, verliert Aufträge an sichtbarere Wettbewerber."
+      ],
+      [
+        "Funktioniert LLMO auch für B2B-Unternehmen im Maschinenbau?",
+        "Gerade für B2B ist LLMO hochrelevant. KI-Modelle bewerten technische Kompetenz, Innovationsgrad und Marktposition – genau die Kriterien, die B2B-Einkäufer interessieren."
+      ],
+      [
+        "Was unterscheidet den LLMO Check im Maschinenbau von anderen Branchen?",
+        "Wir analysieren branchenspezifische Prompts wie Technologievergleiche, Anbieter-Rankings und Innovationsanfragen. Zudem prüfen wir die internationale Sichtbarkeit."
+      ],
+      [
+        "Wie kann ich als Hidden Champion meine KI-Sichtbarkeit verbessern?",
+        "Durch gezielte Fachpublikationen, strukturierte Produktdaten, aktive Medienarbeit und den Aufbau digitaler Autorität. Der LLMO Check liefert den konkreten Fahrplan."
+      ],
+      [
+        "Ist der LLMO Check für Maschinenbauer kostenlos?",
+        "Ja, der initiale LLMO Check ist kostenlos und liefert eine fundierte Erstanalyse Ihrer KI-Sichtbarkeit mit konkreten Handlungsempfehlungen."
+      ]
+    ]
+  },
+  {
+    "slug": "finanzdienstleistungen",
+    "name": "Finanzdienstleistungen & Banken",
+    "title": "LLMO Check für Finanzdienstleistungen & Banken | llmo-check.de",
+    "meta_description": "LLMO Check für Banken und Finanzdienstleister: Analysieren Sie Ihre Sichtbarkeit in ChatGPT, Claude und Gemini. KI-Empfehlungen in der Finanzbranche prüfen.",
+    "keywords": "LLMO Check Finanzdienstleistungen, KI Sichtbarkeit Banken, ChatGPT Bankempfehlung, LLMO Finanzbranche, GEO Finanzsektor",
+    "h1": "LLMO Check für Finanzdienstleistungen: Wie empfehlen KI-Modelle Ihre Bank?",
+    "hero_text": "Verbraucher fragen ChatGPT nach den besten Girokonten, Kreditkonditionen und Anlagestrategien. Finanzberater nutzen KI für Marktrecherchen. Wo steht Ihre Bank oder Ihr Finanzdienstleistungsunternehmen in den Antworten der großen Sprachmodelle? Der LLMO Check gibt Ihnen die Antwort.",
+    "problem_h2": "KI-Sichtbarkeit als neuer Wettbewerbsfaktor im Finanzsektor",
+    "problem_paragraphs": [
+      "Die Finanzbranche erlebt durch KI-Assistenten eine stille Revolution in der Kundenakquise. Privatkunden fragen ChatGPT nach den besten Girokonten, den günstigsten Baufinanzierungen oder vertrauenswürdigen Vermögensverwaltern. Geschäftskunden nutzen KI-Modelle für Due-Diligence-Recherchen, Anbietervergleiche und Marktanalysen.",
+      "Im Finanzsektor ist Vertrauen die wichtigste Währung. Wenn ein KI-Modell Ihre Bank nicht kennt oder sie in einem neutralen bis negativen Kontext erwähnt, hat das direkten Einfluss auf potenzielle Neukunden. Studien zeigen, dass 68 Prozent der unter 35-Jährigen KI-Empfehlungen bei Finanzentscheidungen mindestens als Orientierung nutzen.",
+      "Der LLMO Check für Finanzdienstleister analysiert systematisch, wie ChatGPT, Claude und Gemini Ihre Institution darstellen. Wir prüfen Produktempfehlungen, Vertrauenssignale, Sentiment und den direkten Wettbewerbervergleich – alles zugeschnitten auf die regulatorischen Besonderheiten der Finanzbranche.",
+      "Von Privatbanken über Neobanken und FinTechs bis hin zu Versicherungsmaklern und Vermögensverwaltern: Jeder Akteur im Finanzsektor braucht eine klare LLMO-Strategie, um in der neuen KI-gesteuerten Recherchelandschaft wettbewerbsfähig zu bleiben."
+    ],
+    "analysis_h2": "LLMO-Analyse für den Finanzsektor",
+    "analysis_intro": "Speziell auf die Anforderungen von Banken, FinTechs und Finanzdienstleistern abgestimmte Analysebereiche.",
+    "analysis": [
+      [
+        "Produktempfehlungen",
+        "Werden Ihre Konten, Kredite oder Anlageprodukte in KI-generierten Finanzvergleichen empfohlen? Analyse über verschiedene Produktkategorien hinweg."
+      ],
+      [
+        "Vertrauens-Scoring",
+        "Wie vertrauenswürdig stellen KI-Modelle Ihre Institution dar? Analyse von Sicherheits-, Regulierungs- und Reputationssignalen."
+      ],
+      [
+        "FinTech-Positionierung",
+        "Für digitale Finanzdienstleister: Werden Sie als innovative Alternative zu Traditionsbanken wahrgenommen und empfohlen?"
+      ],
+      [
+        "Beratungsqualität-Signals",
+        "Wie bewerten KI-Modelle Ihre Beratungsleistung? Werden Sie bei Anfragen nach guter Finanzberatung erwähnt?"
+      ],
+      [
+        "Regulatorik-Konformität",
+        "Stellen KI-Modelle Ihre regulatorische Kompetenz (BaFin, DSGVO) korrekt dar?"
+      ],
+      [
+        "Wettbewerber-Ranking",
+        "Wie stehen Sie im Vergleich zu Direktbanken, Sparkassen, Volksbanken oder FinTech-Wettbewerbern in KI-Antworten?"
+      ]
+    ],
+    "prompts_h2": "Typische KI-Anfragen im Finanzbereich",
+    "prompts_intro": "Verbraucher und Geschäftskunden stellen diese Fragen täglich an KI-Assistenten. Wird Ihre Bank empfohlen?",
+    "prompts": [
+      "Welche Bank hat das beste Girokonto ohne Gebühren?",
+      "Welcher Finanzberater ist der vertrauenswürdigste in Deutschland?",
+      "Was ist die beste Bank für eine Baufinanzierung?",
+      "Welche FinTechs bieten die besten Geschäftskonten für Startups?",
+      "Wo bekomme ich die höchsten Tagesgeldzinsen?",
+      "Welche Neobank ist die sicherste Alternative zu Traditionsbanken?"
+    ],
+    "actions_h2": "LLMO-Maßnahmen für Finanzdienstleister",
+    "action_paragraphs": [
+      "<strong>Transparente Produktkommunikation:</strong> Veröffentlichen Sie klare, vergleichbare Produktinformationen auf Ihrer Website. Konditionen, Gebühren und Leistungsmerkmale sollten strukturiert und maschinenlesbar aufbereitet sein.",
+      "<strong>Thought Leadership in Finanzthemen:</strong> Publizieren Sie regelmäßig Marktberichte, Wirtschaftsanalysen und Expertenmeinungen. Positionieren Sie sich als autoritative Quelle für Finanzwissen.",
+      "<strong>Bewertungen und Auszeichnungen sichtbar machen:</strong> Testsiegel von Stiftung Warentest, Finanztest, Focus Money oder Euro am Sonntag sind starke Vertrauenssignale, die KI-Modelle in ihre Empfehlungen einfließen lassen.",
+      "<strong>Digitale PR und Fachmedien nutzen:</strong> Präsenz in Handelsblatt, Wirtschaftswoche, BörsenZeitung und einschlägigen FinTech-Blogs stärkt Ihre digitale Autorität erheblich."
+    ],
+    "faq": [
+      [
+        "Warum sollten Banken einen LLMO Check durchführen?",
+        "Verbraucher nutzen KI-Assistenten zunehmend für Finanzentscheidungen. 68% der unter 35-Jährigen ziehen KI-Empfehlungen bei der Bankenwahl heran. Wer unsichtbar ist, verliert Neukunden."
+      ],
+      [
+        "Ist LLMO auch für FinTechs relevant?",
+        "Besonders für FinTechs ist LLMO entscheidend, da sie stark auf digitale Kanäle angewiesen sind. KI-Empfehlungen können den Unterschied zwischen Wachstum und Stagnation ausmachen."
+      ],
+      [
+        "Welche Finanzprodukte werden am häufigsten über KI recherchiert?",
+        "Girokonten, Tagesgeld, Baufinanzierungen, Kreditkarten und Geschäftskonten sind die am häufigsten über KI-Assistenten recherchierten Finanzprodukte."
+      ],
+      [
+        "Wie geht der LLMO Check mit regulatorischen Aspekten um?",
+        "Wir prüfen, ob KI-Modelle Ihre regulatorische Konformität korrekt wiedergeben und identifizieren potenzielle Fehlinformationen."
+      ],
+      [
+        "Was kostet der LLMO Check für Finanzdienstleister?",
+        "Der initiale LLMO Check ist kostenlos. Er liefert eine fundierte Erstanalyse mit konkreten Handlungsempfehlungen für die Finanzbranche."
+      ]
+    ]
+  },
+  {
+    "slug": "versicherungen",
+    "name": "Versicherungen",
+    "title": "LLMO Check für Versicherungen | KI-Sichtbarkeit prüfen | llmo-check.de",
+    "meta_description": "LLMO Check für Versicherungsunternehmen: Werden Sie in ChatGPT als vertrauenswürdige Versicherung empfohlen? Jetzt KI-Sichtbarkeit analysieren lassen.",
+    "keywords": "LLMO Check Versicherung, KI Sichtbarkeit Versicherungsbranche, ChatGPT Versicherungsvergleich, LLMO Versicherung, GEO Assekuranz",
+    "h1": "LLMO Check für Versicherungen: Werden Sie von KI-Modellen empfohlen?",
+    "hero_text": "Versicherungskunden vergleichen Tarife und Anbieter zunehmend mit KI-Assistenten. 'Welche Versicherung ist die beste?' wird täglich tausendfach an ChatGPT gestellt. Ist Ihr Unternehmen in der Antwort? Der LLMO Check liefert datenbasierte Klarheit.",
+    "problem_h2": "Die Versicherungsbranche im Wandel der KI-Recherche",
+    "problem_paragraphs": [
+      "Die Versicherungsbranche steht vor einer disruptiven Veränderung in der Kundengewinnung. Traditionell waren Vergleichsportale wie Check24 oder Verivox die erste Anlaufstelle für Tarifvergleiche. Doch zunehmend übernehmen KI-Assistenten diese Rolle – und sie liefern nicht zehn Links, sondern eine konkrete Empfehlung.",
+      "Für Versicherer, Makler und InsurTechs bedeutet das: Die KI-Sichtbarkeit wird zum entscheidenden Vertriebskanal. Ein positives Sentiment in KI-Antworten kann tausende Neukunden generieren – ein negatives oder fehlendes Sentiment kostet Marktanteile.",
+      "Der LLMO Check für Versicherungen untersucht, wie die großen Sprachmodelle über Ihre Versicherungsprodukte und Ihr Unternehmen sprechen. Werden Sie als vertrauenswürdig, fair und leistungsstark dargestellt?",
+      "Von der Allianz über die HUK-Coburg bis hin zu InsurTech-Startups: Jeder Akteur in der Versicherungsbranche muss verstehen, wie KI-Modelle das eigene Unternehmen wahrnehmen – und diese Wahrnehmung aktiv steuern."
+    ],
+    "analysis_h2": "Was der LLMO Check bei Versicherungen analysiert",
+    "analysis_intro": "Branchenspezifische Analysebereiche für Versicherungsunternehmen und Vermittler.",
+    "analysis": [
+      [
+        "Tarifempfehlungen",
+        "Werden Ihre Versicherungstarife bei Vergleichsanfragen in KI-Modellen genannt und empfohlen? Analyse über Sparten wie Kfz, Haftpflicht, BU und PKV."
+      ],
+      [
+        "Schadenregulierung-Reputation",
+        "Wie bewerten KI-Modelle Ihre Schadenregulierung? Schnelligkeit, Fairness und Kundenzufriedenheit im KI-Sentiment."
+      ],
+      [
+        "Makler-Empfehlungen",
+        "Für Versicherungsmakler: Werden Sie bei lokalen Beratungsanfragen empfohlen? Analyse der regionalen KI-Sichtbarkeit."
+      ],
+      [
+        "InsurTech-Wahrnehmung",
+        "Werden digitale Versicherungslösungen als Innovation oder Risiko dargestellt? Positionsanalyse im InsurTech-Kontext."
+      ],
+      [
+        "Vertrauens- und Sicherheitssignale",
+        "Welche Vertrauensindikatoren erkennen KI-Modelle bei Ihrer Marke?"
+      ],
+      [
+        "Wettbewerberanalyse",
+        "Detailliertes Benchmarking gegen direkte Wettbewerber in Ihren Kernsparten."
+      ]
+    ],
+    "prompts_h2": "Typische KI-Anfragen über Versicherungen",
+    "prompts_intro": "So suchen Verbraucher per ChatGPT und Co. nach Versicherungen. Taucht Ihr Unternehmen in den Antworten auf?",
+    "prompts": [
+      "Welche Kfz-Versicherung ist 2025 die günstigste?",
+      "Welcher Versicherer hat die beste Berufsunfähigkeitsversicherung?",
+      "Ist eine private Krankenversicherung besser als die gesetzliche?",
+      "Welcher Versicherungsmakler ist in meiner Stadt empfehlenswert?",
+      "Welche Versicherung reguliert Schäden am schnellsten?",
+      "Was sind die besten InsurTech-Anbieter in Deutschland?"
+    ],
+    "actions_h2": "LLMO-Optimierung für Versicherungsunternehmen",
+    "action_paragraphs": [
+      "<strong>Produkttransparenz maximieren:</strong> Veröffentlichen Sie Ihre Tarifdetails, Leistungsvergleiche und Bedingungen vollständig und strukturiert auf Ihrer Website. KI-Modelle können nur empfehlen, was sie verstehen können.",
+      "<strong>Kundenbewertungen systematisch sammeln:</strong> Positive Bewertungen auf Google, Trustpilot und BaFin-konformen Bewertungsportalen stärken Ihr KI-Sentiment massiv.",
+      "<strong>Fachcontent zu Versicherungsthemen erstellen:</strong> Werden Sie zur Wissensquelle für Versicherungsfragen – Ratgeberinhalte mit hoher Informationsdichte werden von LLMs als autoritative Quellen bevorzugt.",
+      "<strong>Testsiege und Ratings prominent kommunizieren:</strong> Auszeichnungen von Stiftung Warentest, Franke und Bornberg, Morgen & Morgen oder Assekurata sind starke Vertrauenssignale."
+    ],
+    "faq": [
+      [
+        "Warum ist LLMO für Versicherungsunternehmen so wichtig?",
+        "Versicherungskunden nutzen KI-Assistenten zunehmend für Tarifvergleiche und Anbieterrecherche. Eine positive KI-Empfehlung hat höheres Vertrauen als klassische Vergleichsportale."
+      ],
+      [
+        "Welche Versicherungssparten profitieren am meisten von LLMO?",
+        "Besonders empfehlungssensitive Sparten wie BU, PKV, Kfz und Altersvorsorge profitieren stark."
+      ],
+      [
+        "Wie beeinflusst die Schadenregulierung das KI-Sentiment?",
+        "KI-Modelle aggregieren Kundenerfahrungen zur Schadenregulierung. Eine als fair und schnell wahrgenommene Regulierung stärkt das positive Sentiment."
+      ],
+      [
+        "Können auch Versicherungsmakler vom LLMO Check profitieren?",
+        "Ja, besonders bei lokalen Beratungsanfragen. Wir analysieren, ob Sie als vertrauenswürdiger Makler in Ihrer Region empfohlen werden."
+      ],
+      [
+        "Was kostet der LLMO Check für Versicherungen?",
+        "Der initiale LLMO Check ist kostenlos und liefert eine detaillierte Erstanalyse Ihrer KI-Sichtbarkeit mit priorisierten Optimierungsempfehlungen."
+      ]
+    ]
+  },
+  {
+    "slug": "immobilien",
+    "name": "Immobilienwirtschaft",
+    "title": "LLMO Check für die Immobilienwirtschaft | KI-Sichtbarkeit prüfen | llmo-check.de",
+    "meta_description": "LLMO Check für Immobilienunternehmen: Wie sichtbar sind Sie in ChatGPT bei Immobilienanfragen? Jetzt die KI-Sichtbarkeit Ihres Maklerunternehmens prüfen.",
+    "keywords": "LLMO Check Immobilien, KI Sichtbarkeit Immobilienmakler, ChatGPT Immobilienempfehlung, LLMO Immobilienbranche, GEO Immobilien",
+    "h1": "LLMO Check für die Immobilienwirtschaft: Empfehlen KI-Modelle Ihr Unternehmen?",
+    "hero_text": "Ob Wohnungssuche, Kaufentscheidung oder Maklerwahl – immer mehr Immobilieninteressenten fragen ChatGPT, Claude und Gemini. Die Sichtbarkeit Ihres Immobilienunternehmens in KI-Modellen entscheidet zunehmend über Neukunden und Aufträge.",
+    "problem_h2": "Die Immobilienbranche und der KI-Wandel in der Kundengewinnung",
+    "problem_paragraphs": [
+      "Die Immobiliensuche beginnt längst nicht mehr nur auf ImmoScout24 oder Immowelt. Zunehmend fragen Interessenten KI-Assistenten nach Empfehlungen: 'Welcher Makler ist in München am besten?' oder 'Wo finde ich die besten Neubaugebiete in Berlin?' sind typische Prompts.",
+      "Für Immobilienmakler, Bauträger, Hausverwaltungen und PropTechs hat das weitreichende Konsequenzen: Wer in KI-Antworten nicht vorkommt, verliert potenzielle Kunden an Wettbewerber. Anders als bei Suchmaschinen gibt es in LLM-Antworten keine zweite Seite.",
+      "Der LLMO Check für die Immobilienwirtschaft analysiert Ihre Präsenz in den drei marktführenden Sprachmodellen. Wir prüfen, ob Ihr Unternehmen bei lokalen Makleranfragen, bei Bauträgerprojekten und bei allgemeinen Immobilienberatungen erwähnt wird.",
+      "Der deutsche Immobilienmarkt mit über 79.000 Maklerbüros und einem Transaktionsvolumen von über 190 Milliarden Euro jährlich ist hart umkämpft. KI-Sichtbarkeit wird hier zum entscheidenden Differenzierungsmerkmal."
+    ],
+    "analysis_h2": "LLMO-Analysebereiche für die Immobilienbranche",
+    "analysis_intro": "Auf die Besonderheiten des Immobilienmarktes zugeschnittene Analysemodule.",
+    "analysis": [
+      [
+        "Lokale Maklerempfehlungen",
+        "Werden Sie bei regionalen Anfragen wie 'bester Makler in [Stadt]' empfohlen? Analyse der lokalen KI-Sichtbarkeit."
+      ],
+      [
+        "Bauträger-Sichtbarkeit",
+        "Wie stellen KI-Modelle Ihre Bauprojekte und Neubauangebote dar?"
+      ],
+      [
+        "Marktkompetenz-Signale",
+        "Erkennen KI-Modelle Ihre Expertise für bestimmte Teilmärkte?"
+      ],
+      [
+        "PropTech-Wahrnehmung",
+        "Für PropTechs: Wie innovativ werden Ihre digitalen Immobilienlösungen dargestellt?"
+      ],
+      [
+        "Vertrauens-Check",
+        "Wie vertrauenswürdig stellen KI-Modelle Ihr Unternehmen dar?"
+      ],
+      [
+        "Wettbewerber-Vergleich",
+        "Detailliertes Benchmarking gegen die führenden Immobilienunternehmen in Ihrem Marktgebiet."
+      ]
+    ],
+    "prompts_h2": "Typische KI-Anfragen in der Immobilienbranche",
+    "prompts_intro": "Immobilieninteressenten stellen diese Fragen an KI-Modelle. Erscheint Ihr Unternehmen in den Antworten?",
+    "prompts": [
+      "Welcher Immobilienmakler ist der beste in Hamburg?",
+      "Wo gibt es aktuell die besten Neubaugebiete in Deutschland?",
+      "Welche Hausverwaltung hat die besten Bewertungen in meiner Stadt?",
+      "Was sind die Vor- und Nachteile von Kauf vs. Miete 2025?",
+      "Welche PropTech-Unternehmen revolutionieren den Immobilienmarkt?",
+      "Wer bietet die fairsten Maklergebühren in meiner Region?"
+    ],
+    "actions_h2": "LLMO-Strategie für Immobilienunternehmen",
+    "action_paragraphs": [
+      "<strong>Lokale Autorität aufbauen:</strong> Optimieren Sie Ihr Google Business Profile, pflegen Sie Einträge in Branchenverzeichnissen und sammeln Sie systematisch Kundenbewertungen.",
+      "<strong>Marktberichte und Analysen veröffentlichen:</strong> Publizieren Sie regelmäßig lokale Marktberichte und Preisentwicklungen. Werden Sie zur zitierbaren Quelle für Ihren Teilmarkt.",
+      "<strong>Strukturierte Immobiliendaten bereitstellen:</strong> Nutzen Sie Schema.org Markup für Ihre Objekte und Dienstleistungen.",
+      "<strong>Referenzen und Erfolgsgeschichten teilen:</strong> Dokumentieren Sie erfolgreiche Transaktionen als Case Studies auf Ihrer Website."
+    ],
+    "faq": [
+      [
+        "Warum brauchen Immobilienmakler einen LLMO Check?",
+        "Immer mehr Immobilieninteressenten nutzen KI-Assistenten für die Maklersuche. Wer bei lokalen Anfragen nicht empfohlen wird, verliert Neukunden."
+      ],
+      [
+        "Funktioniert LLMO auch für regionale Immobilienunternehmen?",
+        "Gerade für regionale Makler ist LLMO besonders wertvoll. KI-Modelle liefern lokale Empfehlungen."
+      ],
+      [
+        "Welche Immobilienthemen werden am häufigsten über KI recherchiert?",
+        "Maklerempfehlungen, Marktpreise, Neubaugebiete, Miet-vs.-Kauf-Vergleiche und Finanzierungsoptionen."
+      ],
+      [
+        "Wie kann ich als Bauträger meine KI-Sichtbarkeit verbessern?",
+        "Durch strukturierte Projektdarstellungen, Pressearbeit und aktive Pflege Ihrer digitalen Präsenz auf Immobilienportalen."
+      ],
+      [
+        "Was kostet der LLMO Check für Immobilienunternehmen?",
+        "Der initiale LLMO Check ist kostenlos und liefert eine fundierte Erstanalyse mit konkreten Optimierungsempfehlungen."
+      ]
+    ]
+  }
+]

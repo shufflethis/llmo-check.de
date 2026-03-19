@@ -52,6 +52,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/audit-cta.css">
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -156,10 +157,11 @@
             <div class="hidden md:flex items-center gap-8 text-sm font-medium text-gray-600">
                 <a href="#was-ist-llmo" class="hover:text-violet-700 transition">Was ist LLMO?</a>
                 <a href="#analyse" class="hover:text-violet-700 transition">Analyse</a>
+                <a href="#branchen" class="hover:text-violet-700 transition">Branchen</a>
                 <a href="#vergleich" class="hover:text-violet-700 transition">LLMO vs. SEO</a>
                 <a href="#faq" class="hover:text-violet-700 transition">FAQ</a>
             </div>
-            <a href="#kontakt" class="bg-violet-600 hover:bg-violet-700 text-white text-sm font-semibold px-5 py-2.5 rounded-lg transition">Jetzt prüfen</a>
+            <a href="#kontakt" data-open-audit class="bg-violet-600 hover:bg-violet-700 text-white text-sm font-semibold px-5 py-2.5 rounded-lg transition">Jetzt prüfen</a>
         </div>
     </nav>
 
@@ -390,6 +392,106 @@
         </div>
     </section>
 
+    <!-- Branchen-Übersicht -->
+    <section id="branchen" class="py-20 bg-gray-50">
+        <div class="max-w-6xl mx-auto px-6 fade-in">
+            <h2 class="text-3xl md:text-4xl font-extrabold text-center mb-4 text-gray-900">LLMO Check nach Branche</h2>
+            <p class="text-center text-gray-500 mb-12 text-lg max-w-3xl mx-auto">Jede Branche hat eigene KI-Sichtbarkeits-Herausforderungen. Entdecken Sie unseren branchenspezifischen LLMO Check für die Top-30-Industrien Deutschlands – mit individueller Analyse, typischen KI-Anfragen und konkreten Optimierungsstrategien.</p>
+            <div class="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+                <a href="/branchen/automobilindustrie.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">🚗</span> Automobilindustrie
+                </a>
+                <a href="/branchen/maschinenbau.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">⚙️</span> Maschinenbau
+                </a>
+                <a href="/branchen/finanzdienstleistungen.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">🏦</span> Finanzdienstleistungen
+                </a>
+                <a href="/branchen/versicherungen.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">🛡️</span> Versicherungen
+                </a>
+                <a href="/branchen/immobilien.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">🏠</span> Immobilienwirtschaft
+                </a>
+                <a href="/branchen/gesundheitswesen.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">🏥</span> Gesundheitswesen
+                </a>
+                <a href="/branchen/pharma.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">💊</span> Pharma & Life Sciences
+                </a>
+                <a href="/branchen/rechtsanwaelte.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">⚖️</span> Rechtsanwälte & Kanzleien
+                </a>
+                <a href="/branchen/steuerberater.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">📊</span> Steuerberater & WP
+                </a>
+                <a href="/branchen/e-commerce.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">🛒</span> E-Commerce
+                </a>
+                <a href="/branchen/gastronomie.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">🍽️</span> Gastronomie & Hotellerie
+                </a>
+                <a href="/branchen/handwerk.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">🔧</span> Handwerk & Baugewerbe
+                </a>
+                <a href="/branchen/logistik.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">🚚</span> Logistik & Spedition
+                </a>
+                <a href="/branchen/energiewirtschaft.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">⚡</span> Energiewirtschaft
+                </a>
+                <a href="/branchen/telekommunikation.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">📡</span> Telekommunikation & IT
+                </a>
+                <a href="/branchen/beratung.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">💼</span> Unternehmensberatung
+                </a>
+                <a href="/branchen/personalwesen.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">👥</span> Personalwesen & Recruiting
+                </a>
+                <a href="/branchen/bildung.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">🎓</span> Bildung & E-Learning
+                </a>
+                <a href="/branchen/tourismus.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">✈️</span> Tourismus & Reise
+                </a>
+                <a href="/branchen/mode.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">👗</span> Mode & Fashion
+                </a>
+                <a href="/branchen/lebensmittel.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">🥗</span> Lebensmittelindustrie
+                </a>
+                <a href="/branchen/chemie.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">🧪</span> Chemieindustrie
+                </a>
+                <a href="/branchen/medien.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">📰</span> Medien & Verlagswesen
+                </a>
+                <a href="/branchen/software.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">💻</span> Software & SaaS
+                </a>
+                <a href="/branchen/architektur.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">🏗️</span> Architektur & Ingenieurbüros
+                </a>
+                <a href="/branchen/beauty.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">💄</span> Beauty & Kosmetik
+                </a>
+                <a href="/branchen/fitness.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">🏋️</span> Fitness & Sport
+                </a>
+                <a href="/branchen/zahnaerzte.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">🦷</span> Zahnärzte & Zahnmedizin
+                </a>
+                <a href="/branchen/elektrotechnik.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">🔌</span> Elektrotechnik & Elektronik
+                </a>
+                <a href="/branchen/agrarwirtschaft.html" class="bg-white rounded-xl px-5 py-4 text-gray-800 font-semibold text-sm border border-gray-200 hover:border-violet-300 hover:shadow-md hover:text-violet-700 transition group">
+                    <span class="group-hover:translate-x-1 inline-block transition-transform">🌾</span> Agrarwirtschaft
+                </a>
+            </div>
+        </div>
+    </section>
+
     <!-- GEO / Regionale LLMO Agentur -->
     <section class="py-20">
         <div class="max-w-6xl mx-auto px-6 fade-in">
@@ -514,7 +616,7 @@
                         track by track GmbH<br>
                         Schliemannstr. 23<br>
                         10437 Berlin<br>
-                        <a href="mailto:info@famefact.com" class="text-violet-400 hover:text-violet-300 transition">info@famefact.com</a>
+                        <a href="mailto:hi@llmo-check.de" class="text-violet-400 hover:text-violet-300 transition">hi@llmo-check.de</a>
                     </p>
                 </div>
                 <div>
@@ -527,7 +629,7 @@
                 </div>
             </div>
             <div class="border-t border-gray-800 pt-8 text-center text-sm">
-                <p>&copy; 2025 track by track GmbH. Alle Rechte vorbehalten.</p>
+                <p>&copy; 2026 track by track GmbH. Alle Rechte vorbehalten.</p>
             </div>
         </div>
     </footer>
@@ -546,59 +648,74 @@
             document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
         });
     </script>
-<!-- Floating Audit Button + Modal -->
-<button id="auditFloatingBtn" style="position:fixed;bottom:24px;right:24px;z-index:9999;background:#7c3aed;color:#fff;border:none;padding:14px 22px;border-radius:50px;font-family:'Inter',sans-serif;font-size:0.95rem;font-weight:600;cursor:pointer;box-shadow:0 4px 24px rgba(124,58,237,0.35);display:flex;align-items:center;gap:8px;transition:transform .2s,box-shadow .2s" onmouseover="this.style.transform='scale(1.05)';this.style.boxShadow='0 6px 32px rgba(124,58,237,0.45)'" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 4px 24px rgba(124,58,237,0.35)'">
-  <span style="font-size:1.1em">🎯</span> Gratis LLMO Check
-</button>
 
-<div id="audit-overlay" style="display:none;position:fixed;inset:0;z-index:10000;background:rgba(0,0,0,0.6);backdrop-filter:blur(6px);align-items:center;justify-content:center">
-  <div style="background:#fff;border:1px solid #e5e7eb;border-radius:20px;padding:36px;max-width:440px;width:90%;position:relative;box-shadow:0 20px 60px rgba(0,0,0,0.15)">
-    <button onclick="document.getElementById('audit-overlay').style.display='none'" style="position:absolute;top:14px;right:18px;background:none;border:none;color:#9ca3af;font-size:1.3rem;cursor:pointer">&times;</button>
-    <div style="margin-bottom:20px">
-      <span style="background:#f5f3ff;color:#7c3aed;font-size:0.75rem;padding:4px 12px;border-radius:20px;font-weight:600">✦ Kostenlos &amp; unverbindlich</span>
-      <h2 style="color:#0f172a;font-family:'Inter',sans-serif;font-size:1.35rem;font-weight:700;margin:12px 0 6px">Gratis LLMO Check starten</h2>
-      <p style="color:#64748b;font-size:0.85rem;line-height:1.5;margin:0">Marke eingeben, Ergebnis per Mail. Kein Abo, kein Vertrag. Inkl. AI-Readiness Score und Quick Wins.</p>
+    <!-- Floating Audit CTA Button -->
+    <button id="auditFloatingBtn" class="audit-floating-btn">
+        <span class="audit-floating-icon">✦</span>
+        <span>Gratis GEO Audit</span>
+    </button>
+
+    <!-- Audit Modal Overlay -->
+    <div id="auditOverlay" class="audit-modal-overlay"></div>
+
+    <!-- Audit Modal -->
+    <div id="auditModal" class="audit-modal">
+        <div class="audit-modal-inner">
+            <button class="audit-modal-close" aria-label="Schließen">✕</button>
+            <div class="audit-modal-header">
+                <div class="audit-modal-badge">✦ Kostenlos & unverbindlich</div>
+                <h2>Starte jetzt kostenlos — dein AI Visibility Audit</h2>
+                <p>Marke eingeben, Ergebnis per Mail. Kein Abo, kein Vertrag, kein Risiko. Inkl. AI-Readiness Score und Quick Wins.</p>
+            </div>
+            <form id="auditForm" novalidate>
+                <div class="audit-form-grid">
+                    <div class="audit-form-group">
+                        <label for="auditBrand">Brand / Firmenname <span class="required">*</span></label>
+                        <input type="text" id="auditBrand" placeholder="z.B. Mustermann GmbH" required>
+                    </div>
+                    <div class="audit-form-group">
+                        <label for="auditDomain">Domain</label>
+                        <input type="text" id="auditDomain" placeholder="z.B. mustermann.de">
+                    </div>
+                    <div class="audit-form-group">
+                        <label for="auditBranche">Branche</label>
+                        <input type="text" id="auditBranche" placeholder="z.B. Maschinenbau">
+                    </div>
+                    <div class="audit-form-group">
+                        <label for="auditEmail">E-Mail <span class="required">*</span></label>
+                        <input type="email" id="auditEmail" placeholder="max@beispiel.de" required>
+                    </div>
+                </div>
+                <div class="audit-gdpr">
+                    <input type="checkbox" id="auditGdpr" required>
+                    <div class="audit-gdpr-text">
+                        Ich stimme der Verarbeitung meiner Daten gemäß der <a href="/datenschutz" target="_blank">Datenschutzerklärung</a> zu.
+                    </div>
+                </div>
+                <button type="submit" id="auditSubmitBtn" class="audit-submit-btn">
+                    <span class="audit-btn-text">Sichtbarkeit checken</span>
+                    <span class="audit-btn-icon">→</span>
+                    <span class="audit-spinner"></span>
+                </button>
+                <div id="auditMessage" class="audit-message"></div>
+                <div class="audit-trust-row">
+                    <div class="audit-trust-item">
+                        <svg viewBox="0 0 24 24"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4z"/></svg>
+                        DSGVO-konform
+                    </div>
+                    <div class="audit-trust-item">
+                        <svg viewBox="0 0 24 24"><path d="M18 8h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm3.1-9H8.9V6c0-1.71 1.39-3.1 3.1-3.1s3.1 1.39 3.1 3.1v2z"/></svg>
+                        SSL-verschlüsselt
+                    </div>
+                    <div class="audit-trust-item">
+                        <svg viewBox="0 0 24 24"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z"/></svg>
+                        Ergebnis in 24h
+                    </div>
+                </div>
+            </form>
+        </div>
     </div>
-    <form id="auditForm" style="display:flex;flex-direction:column;gap:10px">
-      <div style="display:flex;flex-direction:column;gap:4px"><label style="color:#334155;font-size:0.75rem;font-weight:600">Brand / Firmenname *</label><input name="brand" required placeholder="z.B. ACME GmbH" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:10px 14px;color:#0f172a;font-size:0.875rem;outline:none"></div>
-      <div style="display:flex;flex-direction:column;gap:4px"><label style="color:#334155;font-size:0.75rem;font-weight:600">Domain</label><input name="domain" placeholder="z.B. acme.de" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:10px 14px;color:#0f172a;font-size:0.875rem;outline:none"></div>
-      <div style="display:flex;flex-direction:column;gap:4px"><label style="color:#334155;font-size:0.75rem;font-weight:600">Branche</label><input name="branche" placeholder="z.B. SaaS, E-Commerce" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:10px 14px;color:#0f172a;font-size:0.875rem;outline:none"></div>
-      <div style="display:flex;flex-direction:column;gap:4px"><label style="color:#334155;font-size:0.75rem;font-weight:600">E-Mail *</label><input name="email" type="email" required placeholder="name@firma.de" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:10px 14px;color:#0f172a;font-size:0.875rem;outline:none"></div>
-      <label style="display:flex;align-items:flex-start;gap:8px;margin:6px 0;cursor:pointer"><input type="checkbox" id="auditGdpr" style="margin-top:3px;accent-color:#7c3aed"><span style="color:#64748b;font-size:0.75rem;line-height:1.4">Ich bin mit der Verarbeitung meiner Daten gemäß der Datenschutzerklärung einverstanden.</span></label>
-      <button type="submit" id="auditSubmitBtn" style="background:#7c3aed;color:#fff;border:none;padding:12px;border-radius:10px;font-family:'Inter',sans-serif;font-size:0.95rem;font-weight:600;cursor:pointer;margin-top:4px;transition:opacity .2s">Sichtbarkeit checken →</button>
-      <div id="auditMsg" style="display:none;text-align:center;padding:8px;border-radius:8px;font-size:0.8rem;margin-top:4px"></div>
-    </form>
-    <div style="display:flex;justify-content:center;gap:20px;margin-top:16px;color:#94a3b8;font-size:0.7rem">
-      <span>🔒 DSGVO-konform</span><span>🔐 SSL-verschlüsselt</span><span>⚡ Ergebnis in 24h</span>
-    </div>
-  </div>
-</div>
 
-<script>
-(function(){
-  var overlay=document.getElementById('audit-overlay');
-  var btn=document.getElementById('auditFloatingBtn');
-  var form=document.getElementById('auditForm');
-  var msg=document.getElementById('auditMsg');
-  btn.addEventListener('click',function(){overlay.style.display='flex'});
-  overlay.addEventListener('click',function(e){if(e.target===overlay)overlay.style.display='none'});
-  document.addEventListener('keydown',function(e){if(e.key==='Escape')overlay.style.display='none'});
-  form.addEventListener('submit',function(e){
-    e.preventDefault();
-    if(!document.getElementById('auditGdpr').checked){msg.style.display='block';msg.style.background='#fef2f2';msg.style.color='#dc2626';msg.textContent='Bitte Datenschutz akzeptieren.';return}
-    var sub=document.getElementById('auditSubmitBtn');sub.disabled=true;sub.textContent='Wird gesendet…';
-    var fd=new FormData(form);
-    fetch('https://prompt-monitoring.de/api/v1/audit/submit',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({brand:fd.get('brand'),domain:fd.get('domain'),email:fd.get('email'),industry:fd.get('branche'),source:'llmo-check.de'})})
-    .then(function(r){return r.json()})
-    .then(function(d){
-      msg.style.display='block';
-      if(d.success){msg.style.background='#f5f3ff';msg.style.color='#6d28d9';msg.textContent='Vielen Dank! Dein LLMO Check wird bearbeitet — Ergebnis kommt per Mail.';form.reset();if(window.plausible)plausible('Audit CTA Submitted',{props:{brand:fd.get('brand')}})}
-      else{msg.style.background='#fef2f2';msg.style.color='#dc2626';msg.textContent=d.error||'Fehler aufgetreten.'}
-      sub.disabled=false;sub.textContent='Sichtbarkeit checken →';
-    }).catch(function(){msg.style.display='block';msg.style.background='#fef2f2';msg.style.color='#dc2626';msg.textContent='Verbindungsfehler.';sub.disabled=false;sub.textContent='Sichtbarkeit checken →'});
-  });
-})();
-</script>
-
+    <script src="/audit-cta.js"></script>
 </body>
 </html>

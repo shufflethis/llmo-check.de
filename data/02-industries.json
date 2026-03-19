@@ -1,0 +1,252 @@
+[
+  {
+    "slug": "gesundheitswesen",
+    "name": "Gesundheitswesen & Medizin",
+    "title": "LLMO Check für das Gesundheitswesen | KI-Sichtbarkeit prüfen | llmo-check.de",
+    "meta_description": "LLMO Check für Gesundheitswesen und Medizin: Wie sichtbar sind Ihre medizinischen Leistungen in ChatGPT? KI-Sichtbarkeit für Kliniken, Praxen und MedTech.",
+    "keywords": "LLMO Check Gesundheitswesen, KI Sichtbarkeit Medizin, ChatGPT Arztempfehlung, LLMO Healthcare, GEO Gesundheitsbranche",
+    "h1": "LLMO Check für das Gesundheitswesen: Empfehlen KI-Modelle Ihre Klinik oder Praxis?",
+    "hero_text": "Patienten fragen KI-Assistenten nach Ärzten, Kliniken und Therapieoptionen. Die Sichtbarkeit im Gesundheitswesen in ChatGPT, Claude und Gemini beeinflusst Patientenströme direkt. Der LLMO Check zeigt, wie KI-Modelle Ihre medizinische Einrichtung wahrnehmen.",
+    "problem_h2": "KI-Sichtbarkeit als neuer Faktor in der Patientengewinnung",
+    "problem_paragraphs": [
+      "Das Gesundheitswesen erlebt einen tiefgreifenden Wandel in der Patientenkommunikation. Immer mehr Patienten nutzen KI-Assistenten, um Symptome einzuordnen, Ärzte zu finden und Behandlungsoptionen zu vergleichen. Eine aktuelle Erhebung zeigt, dass 42 Prozent der 18- bis 45-Jährigen bereits mindestens einmal ChatGPT für gesundheitsbezogene Fragen genutzt haben.",
+      "Für Kliniken, Arztpraxen, MVZs und MedTech-Unternehmen hat das direkte wirtschaftliche Auswirkungen: Wird Ihre Einrichtung bei Anfragen wie ‚bester Orthopäde in Berlin' oder ‚welche Klinik ist führend bei Knieoperationen' empfohlen? In vielen Fällen lautet die Antwort: Nein – und das bedeutet verlorene Patienten.",
+      "Der LLMO Check analysiert systematisch, wie die großen Sprachmodelle über Ihre medizinische Einrichtung sprechen. Wir prüfen Empfehlungshäufigkeit, Behandlungsschwerpunkt-Darstellung, Qualitätssignale und das Sentiment – alles unter Berücksichtigung der besonderen Sensibilität medizinischer Informationen.",
+      "Von Universitätskliniken über Facharztpraxen bis hin zu HealthTech-Startups: Jeder Akteur im Gesundheitswesen muss verstehen, wie KI-Modelle die eigene Einrichtung darstellen. Fehlinformationen können hier nicht nur wirtschaftlich schaden, sondern auch Patientensicherheitsrisiken bergen."
+    ],
+    "analysis_h2": "LLMO-Analyse für das Gesundheitswesen",
+    "analysis_intro": "Medizinisch-spezifische Analysebereiche für Kliniken, Praxen und MedTech-Unternehmen.",
+    "analysis": [
+      ["Arzt- und Klinikempfehlungen", "Werden Sie bei Patientenanfragen nach Fachärzten, Kliniken oder Behandlungszentren empfohlen? Analyse Ihrer Nennungsrate bei typischen Gesundheits-Prompts."],
+      ["Behandlungsschwerpunkt-Darstellung", "Stellen KI-Modelle Ihre Spezialisierungen korrekt dar? Wir prüfen, ob Ihre medizinischen Schwerpunkte und Kompetenzen richtig kommuniziert werden."],
+      ["Qualitätsindikatoren", "Erkennen KI-Modelle Ihre Qualitätszertifizierungen, Patientenbewertungen und Auszeichnungen? Analyse der Darstellung Ihrer medizinischen Exzellenz."],
+      ["Patienteninformations-Check", "Geben KI-Modelle korrekte Informationen über Ihre Behandlungen, Sprechzeiten und Kontaktmöglichkeiten wieder?"],
+      ["MedTech-Innovationswahrnehmung", "Für MedTech-Unternehmen: Werden Ihre Produkte und Technologien als innovativ und zuverlässig dargestellt?"],
+      ["Wettbewerber-Benchmarking", "Vergleich Ihrer KI-Sichtbarkeit mit anderen Kliniken und Praxen in Ihrem Fachbereich und Ihrer Region."]
+    ],
+    "prompts_h2": "Typische KI-Anfragen im Gesundheitswesen",
+    "prompts_intro": "Patienten stellen diese Fragen an ChatGPT und Co. Wird Ihre Einrichtung in den Antworten erwähnt?",
+    "prompts": [
+      "Welche Klinik ist die beste für Knieoperationen in Deutschland?",
+      "Wer ist der beste Kardiologe in meiner Stadt?",
+      "Welches MedTech-Unternehmen führt bei der Telemedizin?",
+      "Welche Reha-Klinik hat die besten Bewertungen?",
+      "Was sind die Vor- und Nachteile von minimalinvasiver Chirurgie?",
+      "Welche Krankenhäuser in Deutschland haben die höchste Patientenzufriedenheit?"
+    ],
+    "actions_h2": "LLMO-Maßnahmen für das Gesundheitswesen",
+    "action_paragraphs": [
+      "<strong>Medizinische Expertise dokumentieren:</strong> Veröffentlichen Sie Fachartikel, Patientenratgeber und Behandlungsleitfäden auf Ihrer Website. KI-Modelle bevorzugen medizinische Quellen mit hoher Fachkompetenz und nachgewiesener Expertise – nutzen Sie Ihre ärztliche Autorität als Content-Vorteil.",
+      "<strong>Strukturierte medizinische Daten bereitstellen:</strong> Implementieren Sie Schema.org Markup für MedicalOrganization, Physician und MedicalProcedure. Strukturierte Daten helfen KI-Modellen, Ihre Spezialisierungen, Standorte und Kontaktinformationen korrekt zu erfassen.",
+      "<strong>Patientenbewertungen aktiv managen:</strong> Positive Bewertungen auf Google, Jameda, sanego und klinikbewertungen.de stärken Ihr KI-Sentiment erheblich. Implementieren Sie einen systematischen Prozess zur Einholung und Beantwortung von Patientenfeedback.",
+      "<strong>Medizinische PR und Fachpublikationen:</strong> Präsenz in medizinischen Fachmedien, Kongressbeiträge und Zitationen in wissenschaftlichen Publikationen stärken Ihre Entity Authority in KI-Modellen nachhaltig."
+    ],
+    "faq": [
+      ["Warum ist LLMO für Kliniken und Arztpraxen wichtig?", "42% der 18-45-Jährigen nutzen KI-Assistenten für gesundheitsbezogene Fragen. Empfehlungen in KI-Antworten beeinflussen Patientenströme direkt und werden zum neuen Wettbewerbsfaktor."],
+      ["Kann der LLMO Check Fehlinformationen über meine Klinik aufdecken?", "Ja, wir prüfen die Korrektheit der von KI-Modellen wiedergegebenen Informationen über Ihre Einrichtung – von Behandlungsschwerpunkten bis Kontaktdaten. Fehlinformationen können wir identifizieren und Korrekturstrategien vorschlagen."],
+      ["Ist LLMO auch für MedTech-Unternehmen relevant?", "Absolut. Ärzte und Kliniken nutzen KI-Assistenten für Produktrecherchen und Technologievergleiche. Eine starke LLM-Präsenz beeinflusst Beschaffungsentscheidungen direkt."],
+      ["Wie geht der LLMO Check mit medizinischer Sensibilität um?", "Wir berücksichtigen die besonderen Anforderungen des Gesundheitswesens, einschließlich Datenschutz und die Sensibilität medizinischer Empfehlungen. Unser Fokus liegt auf der institutionellen Sichtbarkeit, nicht auf individueller Patientendaten."],
+      ["Was kostet der LLMO Check für Gesundheitseinrichtungen?", "Der initiale LLMO Check ist kostenlos und liefert eine fundierte Erstanalyse mit konkreten Handlungsempfehlungen für Ihre medizinische Einrichtung."]
+    ]
+  },
+  {
+    "slug": "pharma",
+    "name": "Pharma & Life Sciences",
+    "title": "LLMO Check für Pharma & Life Sciences | KI-Sichtbarkeit prüfen | llmo-check.de",
+    "meta_description": "LLMO Check für die Pharmabranche: Wie stellen ChatGPT, Claude und Gemini Ihre Medikamente und Forschung dar? KI-Sichtbarkeit für Pharma analysieren.",
+    "keywords": "LLMO Check Pharma, KI Sichtbarkeit Pharmaindustrie, ChatGPT Medikamente, LLMO Life Sciences, GEO Pharma",
+    "h1": "LLMO Check für Pharma & Life Sciences: Ihre Sichtbarkeit in KI-Modellen",
+    "hero_text": "Ärzte, Forscher und Patienten fragen KI-Modelle nach Wirkstoffen, Therapien und Herstellern. Wird Ihr Pharma-Unternehmen als vertrauenswürdig und innovativ dargestellt? Der LLMO Check zeigt Ihnen, wie ChatGPT, Claude und Gemini über Ihre Produkte und Forschung sprechen.",
+    "problem_h2": "KI-Sichtbarkeit in der Pharmaindustrie: Vertrauen auf dem Prüfstand",
+    "problem_paragraphs": [
+      "Die Pharmabranche steht vor einer einzigartigen LLMO-Herausforderung: KI-Modelle beeinflussen zunehmend, welche Wirkstoffe, Therapien und Hersteller als vertrauenswürdig und innovativ wahrgenommen werden. Ärzte nutzen ChatGPT für Literaturrecherchen, Patienten informieren sich über Medikamente und ihre Nebenwirkungen, und Investoren lassen sich KI-gestützte Marktanalysen erstellen.",
+      "Für pharmazeutische Unternehmen – von der forschenden Pharmaindustrie über Generikahersteller bis zu Biotech-Startups – hat die LLM-Darstellung direkte Auswirkungen auf Verschreibungsverhalten, Patientenvertrauen und Kapitalmarktwahrnehmung. Besonders sensibel ist dabei die korrekte Wiedergabe von Wirksamkeits- und Sicherheitsdaten.",
+      "Der LLMO Check für Pharma analysiert, wie Sprachmodelle Ihre Produkte, Pipeline und Forschungsleistung darstellen. Wir identifizieren, ob Ihre Medikamente korrekt beschrieben werden, ob Ihr Unternehmen als Innovator wahrgenommen wird und wie Sie im Wettbewerbsvergleich positioniert sind.",
+      "Angesichts der strengen Regulierung im Pharmabereich ist die LLM-Darstellung besonders kritisch: Fehlinformationen über Medikamente in KI-Antworten können Patienten gefährden und regulatorische Konsequenzen nach sich ziehen. Proaktives LLMO-Management ist daher nicht nur eine Marketing-Maßnahme, sondern eine Frage der verantwortungsvollen Unternehmensführung."
+    ],
+    "analysis_h2": "LLMO-Analyse für die Pharmaindustrie",
+    "analysis_intro": "Speziell auf die regulatorischen und wettbewerbsrechtlichen Anforderungen der Pharmabranche abgestimmte Analysemodule.",
+    "analysis": [
+      ["Medikamenten-Darstellung", "Wie korrekt und vollständig stellen KI-Modelle Ihre Medikamente dar? Analyse von Wirkstoff, Indikation, Nebenwirkungen und Verfügbarkeit."],
+      ["Forschungs-Reputation", "Wird Ihr Unternehmen als innovativer Forschungspartner wahrgenommen? Analyse der Pipeline-Darstellung und Innovationsreputation."],
+      ["Wirksamkeits-Signale", "Welche Wirksamkeits- und Sicherheitsdaten geben KI-Modelle über Ihre Produkte wieder? Identifikation von Fehlinformationen."],
+      ["Ärzte-Perspektive", "Wie empfehlen KI-Modelle Ihre Produkte an medizinisches Fachpersonal? Analyse der professionellen Wahrnehmung."],
+      ["Generika vs. Original", "Für Generikahersteller: Wie positionieren KI-Modelle Generika im Vergleich zu Originalpräparaten?"],
+      ["Investoren-Sicht", "Wie stellen KI-Modelle Ihre Marktposition, Pipeline und Finanzkraft dar? Analyse der kapitalmarktrelevanten Darstellung."]
+    ],
+    "prompts_h2": "Typische KI-Anfragen zu Pharma-Themen",
+    "prompts_intro": "Ärzte, Patienten und Investoren stellen diese Fragen an KI-Assistenten. Wird Ihr Unternehmen korrekt dargestellt?",
+    "prompts": [
+      "Welches Medikament ist am wirksamsten bei Bluthochdruck?",
+      "Was sind die vielversprechendsten Biotech-Unternehmen in Deutschland?",
+      "Welcher Pharmakonzern führt bei der Krebsforschung?",
+      "Was sind die Nebenwirkungen von Medikament X?",
+      "Gibt es günstige Generika-Alternativen zu Medikament Y?",
+      "Welche Pharma-Unternehmen investieren am meisten in mRNA-Technologie?"
+    ],
+    "actions_h2": "LLMO-Strategie für Pharmaunternehmen",
+    "action_paragraphs": [
+      "<strong>Wissenschaftliche Publikationen stärken:</strong> KI-Modelle gewichten wissenschaftliche Quellen besonders hoch. Investieren Sie in Peer-Reviewed-Publikationen, klinische Studienergebnisse und Kongressbeiträge. Jede Zitation in PubMed oder Lancet stärkt Ihre LLM-Autorität.",
+      "<strong>Fachlich korrekte Unternehmensinformationen publizieren:</strong> Stellen Sie sicher, dass Ihre Unternehmenswebsite umfassende, aktuelle und korrekte Informationen über Ihre Produktpalette, Pipeline und Forschungsaktivitäten enthält – strukturiert mit Schema.org Markup für MedicalEntity und Drug.",
+      "<strong>Fehlinformationen proaktiv korrigieren:</strong> Identifizieren Sie fehlerhafte oder veraltete Informationen über Ihre Produkte in KI-Antworten und ergreifen Sie Maßnahmen: Aktualisierte Pressemitteilungen, korrigierte Wikipedia-Einträge und überarbeitete Fachinformationen auf Ihrer Website.",
+      "<strong>Thought Leadership in Fachmedien:</strong> Positionieren Sie Ihre Experten in Fachmedien wie Pharmazeutische Zeitung, Ärzteblatt und BioRegion-Publikationen als Meinungsführer. Dies stärkt Ihre Reputation in den Trainingsdaten der LLMs nachhaltig."
+    ],
+    "faq": [
+      ["Warum ist LLMO für die Pharmabranche besonders wichtig?", "KI-Modelle beeinflussen Verschreibungsverhalten, Patientenentscheidungen und Investorenwahrnehmung. Fehlinformationen über Medikamente in KI-Antworten können Patienten gefährden und regulatorische Konsequenzen haben."],
+      ["Kann der LLMO Check fehlerhafte Medikamenteninformationen aufdecken?", "Ja, wir prüfen systematisch, ob KI-Modelle Ihre Medikamente korrekt beschreiben – einschließlich Wirkstoff, Indikation, Dosierung und Nebenwirkungen. Fehlinformationen werden identifiziert und Korrekturstrategien vorgeschlagen."],
+      ["Ist LLMO auch für Biotech-Startups relevant?", "Besonders für Biotech-Startups ist LLMO entscheidend. Investoren und potenzielle Partner nutzen KI-Assistenten zur Marktrecherche. Eine starke LLM-Präsenz kann Finanzierungs- und Kooperationschancen erheblich verbessern."],
+      ["Wie geht der LLMO Check mit regulatorischen Anforderungen um?", "Wir berücksichtigen die strengen Regulierungen der Pharmabranche (AMG, HWG) und fokussieren auf die institutionelle Darstellung. Unser Check ersetzt keine regulatorische Compliance-Prüfung, ergänzt sie aber sinnvoll."],
+      ["Was kostet der LLMO Check für Pharmaunternehmen?", "Der initiale LLMO Check ist kostenlos und liefert eine detaillierte Erstanalyse Ihrer KI-Sichtbarkeit mit branchenspezifischen Optimierungsempfehlungen."]
+    ]
+  },
+  {
+    "slug": "rechtsanwaelte",
+    "name": "Rechtsanwälte & Kanzleien",
+    "title": "LLMO Check für Rechtsanwälte & Kanzleien | KI-Sichtbarkeit prüfen | llmo-check.de",
+    "meta_description": "LLMO Check für Rechtsanwälte: Werden Sie von ChatGPT als Anwalt empfohlen? Prüfen Sie die KI-Sichtbarkeit Ihrer Kanzlei in ChatGPT, Claude und Gemini.",
+    "keywords": "LLMO Check Rechtsanwalt, KI Sichtbarkeit Kanzlei, ChatGPT Anwaltsempfehlung, LLMO Anwalt, GEO Kanzlei",
+    "h1": "LLMO Check für Rechtsanwälte: Empfiehlt ChatGPT Ihre Kanzlei?",
+    "hero_text": "Wer einen Anwalt sucht, fragt zunehmend ChatGPT. ‚Bester Anwalt für Arbeitsrecht in München' ist ein typischer Prompt, der täglich hundertfach gestellt wird. Wird Ihre Kanzlei in der Antwort empfohlen? Der LLMO Check gibt Ihnen Klarheit.",
+    "problem_h2": "Warum Kanzleien ihre KI-Sichtbarkeit prüfen müssen",
+    "problem_paragraphs": [
+      "Die Mandantengewinnung für Rechtsanwälte verändert sich dramatisch. Neben der klassischen Empfehlung und Google-Suche nutzen immer mehr Rechtssuchende KI-Assistenten, um Anwälte in ihrer Nähe zu finden, Rechtsgebiete zu vergleichen und erste Einschätzungen zu erhalten. ChatGPT wird zum digitalen Erstkontakt für potenzielle Mandanten.",
+      "Für Kanzleien – von der Einzelkanzlei bis zur internationalen Wirtschaftskanzlei – bedeutet das eine neue Dimension des Wettbewerbs: Wer in KI-Antworten nicht vorkommt, verliert Mandanten an sichtbarere Wettbewerber. Besonders kritisch ist dies für Kanzleien, die auf Laufkundschaft und digitale Akquise angewiesen sind – etwa im Familienrecht, Arbeitsrecht oder Verkehrsrecht.",
+      "Der LLMO Check für Rechtsanwälte analysiert Ihre Sichtbarkeit in den drei marktführenden Sprachmodellen. Wir prüfen, ob Sie bei lokalen Kanzleisuchen, bei fachgebietsspezifischen Anfragen und bei allgemeinen Rechtsberatungsempfehlungen erwähnt werden. Besonderer Fokus liegt auf der Darstellung Ihrer Spezialisierungen und dem lokalen Bezug.",
+      "Der deutsche Rechtsdienstleistungsmarkt umfasst rund 166.000 zugelassene Rechtsanwälte. In diesem dicht besetzten Markt wird die KI-Sichtbarkeit zum entscheidenden Differenzierungsmerkmal – insbesondere für Kanzleien, die sich durch Fachkompetenz und Mandantennähe auszeichnen."
+    ],
+    "analysis_h2": "LLMO-Analyse für Rechtsanwälte und Kanzleien",
+    "analysis_intro": "Speziell auf die juristische Branche zugeschnittene Analysemodule.",
+    "analysis": [
+      ["Lokale Kanzleiempfehlungen", "Werden Sie bei regionalen Anfragen wie ‚bester Anwalt für [Rechtsgebiet] in [Stadt]' empfohlen? Analyse Ihrer lokalen KI-Sichtbarkeit."],
+      ["Fachgebiets-Sichtbarkeit", "Wie gut erkennen KI-Modelle Ihre Spezialisierungen? Werden Sie bei Anfragen zu Ihren Fachgebieten als Experte dargestellt?"],
+      ["Reputationsanalyse", "Welche Vertrauenssignale erkennen KI-Modelle bei Ihrer Kanzlei? Fachanwaltstitel, Bewertungen, Veröffentlichungen."],
+      ["Mandantenempfehlungs-Check", "Wie häufig empfehlen KI-Modelle Ihre Kanzlei im Vergleich zu Wettbewerbern in Ihrem Einzugsgebiet?"],
+      ["Legal-Tech-Wahrnehmung", "Für Legal-Tech-Anbieter: Werden Ihre Lösungen als innovativ und zuverlässig dargestellt?"],
+      ["Großkanzlei-Benchmarking", "Für Wirtschaftskanzleien: Vergleich Ihrer KI-Sichtbarkeit mit den Top-Kanzleien in Ihrem Praxisbereich."]
+    ],
+    "prompts_h2": "Typische KI-Anfragen bei der Anwaltssuche",
+    "prompts_intro": "Mandanten stellen diese Fragen an ChatGPT und Co. Erscheint Ihre Kanzlei in den Antworten?",
+    "prompts": [
+      "Wer ist der beste Anwalt für Arbeitsrecht in meiner Stadt?",
+      "Welche Kanzlei ist auf Mietrecht spezialisiert?",
+      "Was kostet ein Anwalt bei einer Scheidung?",
+      "Welche Wirtschaftskanzleien sind in Deutschland führend?",
+      "Kann ich bei einer Abmahnung auf einen Anwalt verzichten?",
+      "Welche Kanzlei hat die besten Bewertungen in meiner Region?"
+    ],
+    "actions_h2": "LLMO-Strategie für Rechtsanwälte",
+    "action_paragraphs": [
+      "<strong>Juristische Fachbeiträge publizieren:</strong> Veröffentlichen Sie regelmäßig Fachartikel, Rechtstipps und Kommentare zu aktuellen Urteilen auf Ihrer Website und in juristischen Fachmedien. Werden Sie zur zitierbaren Quelle in Ihrem Rechtsgebiet – das stärkt Ihre Entity Authority in LLMs nachhaltig.",
+      "<strong>Lokale Präsenz maximieren:</strong> Optimieren Sie Ihr Google Business Profile, pflegen Sie Anwaltsverzeichnisse (anwalt.de, advocado) und sammeln Sie systematisch Mandantenbewertungen. Lokale Datenpunkte sind für KI-Modelle bei Kanzleiempfehlungen entscheidend.",
+      "<strong>Spezialisierungen klar kommunizieren:</strong> Stellen Sie Ihre Fachanwaltstitel, Schwerpunktgebiete und Referenzmandate prominent und strukturiert auf Ihrer Website dar. Nutzen Sie Schema.org Markup für LegalService und Attorney, damit KI-Modelle Ihre Expertise korrekt erfassen.",
+      "<strong>Medienpräsenz aufbauen:</strong> Interviews in lokalen und überregionalen Medien, Gastbeiträge in der NJW oder im Anwaltsblatt und Konferenzbeiträge stärken Ihre Reputation in KI-Trainingsdaten. Positionieren Sie sich als Experte, der von Journalisten zitiert wird."
+    ],
+    "faq": [
+      ["Warum brauchen Rechtsanwälte einen LLMO Check?", "Immer mehr Mandanten nutzen KI-Assistenten für die Anwaltssuche. Wer bei lokalen Kanzleiempfehlungen in ChatGPT nicht auftaucht, verliert potenzielle Mandanten an sichtbarere Wettbewerber."],
+      ["Welche Rechtsgebiete profitieren am meisten von LLMO?", "Rechtsgebiete mit hoher Privatmandanten-Nachfrage wie Arbeitsrecht, Familienrecht, Mietrecht und Verkehrsrecht profitieren besonders, da Endverbraucher hier aktiv KI-Assistenten zur Anwaltssuche nutzen."],
+      ["Kann LLMO auch für Wirtschaftskanzleien relevant sein?", "Ja, gerade internationale Mandanten und deren Rechtsabteilungen nutzen KI für Due-Diligence-Recherchen und Kanzleivergleiche. Eine starke LLM-Präsenz kann Premium-Mandanten anziehen."],
+      ["Wie beeinflusst mein Fachanwaltstitel meine KI-Sichtbarkeit?", "Fachanwaltstitel sind starke Fachkompetenz-Signale, die KI-Modelle erkennen und in Empfehlungen einbeziehen. Stellen Sie sicher, dass Ihre Titel strukturiert und prominent auf Ihrer Website dargestellt sind."],
+      ["Was kostet der LLMO Check für Rechtsanwälte?", "Der initiale LLMO Check ist kostenlos und liefert eine fundierte Erstanalyse Ihrer KI-Sichtbarkeit mit konkreten Handlungsempfehlungen für Ihre Kanzlei."]
+    ]
+  },
+  {
+    "slug": "steuerberater",
+    "name": "Steuerberater & Wirtschaftsprüfer",
+    "title": "LLMO Check für Steuerberater & Wirtschaftsprüfer | llmo-check.de",
+    "meta_description": "LLMO Check für Steuerberater: Wie sichtbar ist Ihre Kanzlei in ChatGPT? Werden Sie bei Steuerberatungsanfragen empfohlen? Jetzt KI-Sichtbarkeit prüfen.",
+    "keywords": "LLMO Check Steuerberater, KI Sichtbarkeit Steuerberatung, ChatGPT Steuerberater-Empfehlung, LLMO Wirtschaftsprüfer, GEO Steuerberatung",
+    "h1": "LLMO Check für Steuerberater: Empfehlen KI-Modelle Ihre Kanzlei?",
+    "hero_text": "Unternehmer und Privatpersonen fragen ChatGPT zunehmend nach Steuerberatungsempfehlungen. ‚Welcher Steuerberater ist der beste für Freelancer?' oder ‚Wer hilft bei der GmbH-Gründung steuerlich?' – werden Sie bei diesen Anfragen empfohlen? Der LLMO Check gibt Klarheit.",
+    "problem_h2": "Steuerberatung im Zeitalter der KI-Mandantengewinnung",
+    "problem_paragraphs": [
+      "Die Suche nach dem passenden Steuerberater hat sich grundlegend verändert. Neben persönlichen Empfehlungen und Google-Suchen nutzen immer mehr Mandanten KI-Assistenten, um Steuerberater zu finden, Leistungen zu vergleichen und erste Steuerfragen zu klären. Für Existenzgründer, Freelancer und internationale Unternehmen ist ChatGPT oft der erste Anlaufpunkt.",
+      "Für Steuerberatungskanzleien und Wirtschaftsprüfungsgesellschaften bedeutet das einen grundlegenden Wandel in der Mandantenakquise. Kanzleien, die in KI-Antworten präsent sind, gewinnen neue Mandanten – die unsichtbaren verlieren sie. Mit rund 90.000 Steuerberatern in Deutschland ist der Wettbewerb intensiv, und KI-Sichtbarkeit wird zum Differenzierungsmerkmal.",
+      "Der LLMO Check analysiert, wie ChatGPT, Claude und Gemini Ihre Steuerberatungskanzlei darstellen. Werden Sie bei lokalen Empfehlungen genannt? Erkennen KI-Modelle Ihre Spezialisierungen wie Unternehmensnachfolge, internationale Steuerplanung oder Existenzgründerberatung? Wie ist Ihr Sentiment im Vergleich zu Wettbewerbern?",
+      "Auch für die Branche der Wirtschaftsprüfung ist LLMO zunehmend relevant: Unternehmen nutzen KI-Assistenten für Anbietervergleiche, und die Darstellung Ihrer Prüfungsgesellschaft in ChatGPT beeinflusst das Vertrauen potenzieller Mandanten."
+    ],
+    "analysis_h2": "LLMO-Analyse für Steuerberater und Wirtschaftsprüfer",
+    "analysis_intro": "Auf die Besonderheiten der steuerberatenden Berufe zugeschnittene Analysebereiche.",
+    "analysis": [
+      ["Lokale Steuerberater-Empfehlungen", "Werden Sie bei regionalen Anfragen wie ‚bester Steuerberater in [Stadt]' empfohlen? Analyse Ihrer lokalen KI-Sichtbarkeit."],
+      ["Spezialisierungs-Erkennung", "Erkennen KI-Modelle Ihre Schwerpunkte? Ob GmbH-Beratung, Freelancer-Steuer, Immobiliensteuer oder internationale Besteuerung."],
+      ["Mandanten-Vertrauenssignale", "Welche Qualitätsindikatoren erkennen KI-Modelle? Analyse von Qualifikationen, Erfahrung und Mandantenbewertungen."],
+      ["Digital-Kompetenz-Darstellung", "Werden Sie als digital-affine Kanzlei wahrgenommen? DATEV-Kompetenz, digitale Buchhaltung und Cloud-Lösungen im KI-Bild."],
+      ["WP-Gesellschafts-Benchmarking", "Für Wirtschaftsprüfer: Vergleich Ihrer KI-Sichtbarkeit mit Big Four und mittelständischen WP-Gesellschaften."],
+      ["Beratungs-Content-Check", "Stellen KI-Modelle Ihre steuerlichen Ratgeberinhalte als vertrauenswürdig und aktuell dar?"]
+    ],
+    "prompts_h2": "Typische KI-Anfragen zur Steuerberatungssuche",
+    "prompts_intro": "Mandanten stellen diese Fragen an KI-Assistenten. Wird Ihre Kanzlei empfohlen?",
+    "prompts": [
+      "Welcher Steuerberater ist der beste für Freelancer?",
+      "Wer hilft bei der steuerlichen Gestaltung einer GmbH-Gründung?",
+      "Welche Steuerberatungskanzlei ist auf E-Commerce spezialisiert?",
+      "Brauche ich einen Steuerberater oder reicht ELSTER?",
+      "Welche Wirtschaftsprüfungsgesellschaften sind führend in Deutschland?",
+      "Wer berät bei internationaler Steuerplanung für KMU?"
+    ],
+    "actions_h2": "LLMO-Maßnahmen für Steuerberatungskanzleien",
+    "action_paragraphs": [
+      "<strong>Steuerliches Fachwissen publizieren:</strong> Veröffentlichen Sie regelmäßig Fachbeiträge zu aktuellen Steueränderungen, Handlungsempfehlungen und Gestaltungstipps. Ein gut gepflegter Steuerblog macht Sie zur zitierbaren Autorität in KI-Modellen – besonders bei häufig gestellten Steuerfragen.",
+      "<strong>Spezialisierungen klar herausstellen:</strong> Definieren Sie Ihre Kernkompetenzen eindeutig auf Ihrer Website. Ob Unternehmensnachfolge, Krypto-Besteuerung, Ärzteberatung oder Start-up-Steuer: KI-Modelle können nur empfehlen, was sie als Spezialisierung erkennen.",
+      "<strong>Digitale Kanzleiinfrastruktur kommunizieren:</strong> Mandanten fragen KI-Assistenten zunehmend nach digital-affinen Kanzleien. Kommunizieren Sie Ihre DATEV-Anbindung, digitale Belegerfassung und Cloud-Buchhaltungskompetenz prominent auf Ihrer Website.",
+      "<strong>Lokale Autorität und Bewertungen aufbauen:</strong> Pflegen Sie Ihr Google Business Profile, sammeln Sie Mandantenbewertungen systematisch und engagieren Sie sich in lokalen Wirtschaftsverbänden. Lokale Datenpunkte sind für KI-Modelle bei Steuerberater-Empfehlungen entscheidend."
+    ],
+    "faq": [
+      ["Warum brauchen Steuerberater einen LLMO Check?", "Mandanten nutzen KI-Assistenten zunehmend für die Steuerberatersuche. Besonders Existenzgründer, Freelancer und internationale Unternehmen fragen ChatGPT nach Empfehlungen – wer unsichtbar ist, verliert Mandanten."],
+      ["Welche Steuerberatungs-Spezialisierungen profitieren am meisten von LLMO?", "Besonders gefragte Spezialisierungen sind GmbH-Gründung, Freelancer-Steuer, E-Commerce, internationale Steuerplanung und Krypto-Besteuerung – hier verzeichnen KI-Assistenten die meisten Anfragen."],
+      ["Ist LLMO auch für Wirtschaftsprüfungsgesellschaften relevant?", "Ja, Unternehmen nutzen KI für WP-Vergleiche und Due-Diligence. Eine starke LLM-Präsenz kann neue Prüfungsmandate generieren und Ihre Reputation im Markt stärken."],
+      ["Wie schnell kann ich meine KI-Sichtbarkeit als Steuerberater verbessern?", "Erste Verbesserungen sind innerhalb von 3-6 Monaten möglich. Sofortige Maßnahmen wie strukturierte Daten und Bewertungsmanagement zeigen schnell Wirkung, während Content-Aufbau langfristig wirkt."],
+      ["Was kostet der LLMO Check für Steuerberater?", "Der initiale LLMO Check ist kostenlos und liefert eine fundierte Erstanalyse Ihrer KI-Sichtbarkeit mit konkreten Handlungsempfehlungen für Ihre Kanzlei."]
+    ]
+  },
+  {
+    "slug": "e-commerce",
+    "name": "E-Commerce & Online-Handel",
+    "title": "LLMO Check für E-Commerce & Online-Handel | llmo-check.de",
+    "meta_description": "LLMO Check für E-Commerce: Empfehlen ChatGPT und Co. Ihren Online-Shop? Prüfen Sie Ihre KI-Sichtbarkeit im Online-Handel und steigern Sie Ihren Umsatz.",
+    "keywords": "LLMO Check E-Commerce, KI Sichtbarkeit Online-Shop, ChatGPT Shopempfehlung, LLMO Online-Handel, GEO E-Commerce",
+    "h1": "LLMO Check für E-Commerce: Empfehlen KI-Modelle Ihren Online-Shop?",
+    "hero_text": "Konsumenten fragen ChatGPT nach Produktempfehlungen und den besten Online-Shops. ‚Wo kaufe ich am besten nachhaltige Sneaker?' – wenn Ihr Shop in dieser Antwort fehlt, verlieren Sie Umsatz. Der LLMO Check analysiert Ihre Position in KI-generierten Kaufempfehlungen.",
+    "problem_h2": "KI als neuer Vertriebskanal im E-Commerce",
+    "problem_paragraphs": [
+      "Der E-Commerce-Markt in Deutschland umfasst über 85 Milliarden Euro Jahresumsatz – und die Art, wie Konsumenten Produkte entdecken, verändert sich radikal. Statt Google-Shopping oder Amazon-Suche fragen immer mehr Käufer KI-Assistenten direkt nach Produktempfehlungen, Shopvergleichen und Kaufberatung. ChatGPT wird zum Shopping-Berater der nächsten Generation.",
+      "Für Online-Händler, D2C-Marken und Marktplatz-Verkäufer hat das enorme Auswirkungen: Eine Empfehlung in ChatGPT kann tausende Besucher und Bestellungen generieren. Gleichzeitig bedeutet Unsichtbarkeit in KI-Antworten, dass Konsumenten zu Wettbewerbern geleitet werden – und das oft, ohne dass Sie es bemerken.",
+      "Der LLMO Check für E-Commerce analysiert, wie KI-Modelle Ihren Online-Shop, Ihre Produkte und Ihre Marke darstellen. Werden Sie bei Kaufberatungsanfragen empfohlen? Wie ist das Sentiment? Welche Wettbewerber werden stattdessen genannt? Die Ergebnisse liefern einen klaren Fahrplan zur Optimierung Ihrer KI-Sichtbarkeit.",
+      "Von Nischen-Shops über etablierte Online-Retailer bis hin zu D2C-Startups: Im E-Commerce zählt Geschwindigkeit. Wer jetzt seine LLM-Präsenz optimiert, sichert sich einen Wettbewerbsvorteil, der in einem gesättigten Markt den Unterschied zwischen Wachstum und Stagnation ausmachen kann."
+    ],
+    "analysis_h2": "LLMO-Analyse für E-Commerce und Online-Handel",
+    "analysis_intro": "Speziell auf die Dynamik des Online-Handels zugeschnittene Analysemodule.",
+    "analysis": [
+      ["Produktempfehlungen", "Werden Ihre Produkte bei Kaufberatungsanfragen in KI-Antworten empfohlen? Analyse über verschiedene Produktkategorien und Kaufszenarien."],
+      ["Shop-Reputation", "Wie vertrauenswürdig stellen KI-Modelle Ihren Online-Shop dar? Analyse von Vertrauenssignalen wie Bewertungen, Zertifizierungen und Retourenquoten."],
+      ["Preis-Leistungs-Wahrnehmung", "Wie positionieren KI-Modelle Ihre Produkte im Preis-Leistungs-Vergleich? Werden Sie als günstig, fair oder premium wahrgenommen?"],
+      ["D2C-Markenbekanntheit", "Für D2C-Marken: Wie bekannt ist Ihre Marke in KI-Modellen? Analyse der Markenbekanntheit und -wahrnehmung."],
+      ["Nachhaltigkeits-Signale", "Werden Ihre Nachhaltigkeitsbemühungen in KI-Antworten berücksichtigt? Analyse der Green-Commerce-Darstellung."],
+      ["Marktplatz vs. Eigenvertrieb", "Wie positionieren KI-Modelle Ihren Shop im Vergleich zu Amazon, Otto und Zalando? Werden Eigenmarken empfohlen?"]
+    ],
+    "prompts_h2": "Typische KI-Anfragen im E-Commerce",
+    "prompts_intro": "Konsumenten stellen diese Kaufanfragen an ChatGPT und Co. Wird Ihr Shop empfohlen?",
+    "prompts": [
+      "Welcher Online-Shop hat die besten Preise für Elektronik?",
+      "Wo kaufe ich am besten nachhaltige Mode online?",
+      "Welche D2C-Marken für Hautpflege sind empfehlenswert?",
+      "Was ist der beste Online-Shop für Bürobedarf?",
+      "Welcher Shop hat die schnellste Lieferung in Deutschland?",
+      "Welche Alternativen zu Amazon gibt es für Online-Shopping?"
+    ],
+    "actions_h2": "LLMO-Strategie für E-Commerce-Unternehmen",
+    "action_paragraphs": [
+      "<strong>Produktbewertungen und Social Proof maximieren:</strong> KI-Modelle gewichten Kundenbewertungen und Testergebnisse stark bei Kaufempfehlungen. Investieren Sie in ein aktives Review-Management, Trustpilot-Integration und die Einholung von Produkttests durch Fachmedien und Influencer.",
+      "<strong>Content-Commerce aufbauen:</strong> Erstellen Sie hochwertige Kaufratgeber, Produktvergleiche und Branchenwissen auf Ihrer Website. Content-reiche Shops mit Ratgeberfunktion werden von KI-Modellen als autoritative Quellen bevorzugt – das steigert sowohl SEO als auch LLMO-Performance.",
+      "<strong>Strukturierte Produktdaten optimieren:</strong> Nutzen Sie Schema.org Markup für Product, Offer, Review und AggregateRating. Je detaillierter und strukturierter Ihre Produktdaten sind, desto besser können KI-Modelle sie in Kaufempfehlungen einbeziehen.",
+      "<strong>Markenidentität und USP schärfen:</strong> KI-Modelle empfehlen Shops, die sich klar differenzieren. Kommunizieren Sie Ihre Alleinstellungsmerkmale – ob Nachhaltigkeit, Spezialisierung, Service oder Preis – deutlich und konsistent in allen digitalen Kanälen."
+    ],
+    "faq": [
+      ["Warum ist LLMO für Online-Shops so wichtig?", "Konsumenten nutzen KI-Assistenten zunehmend als Shopping-Berater. Eine Empfehlung in ChatGPT kann tausende Bestellungen generieren – Unsichtbarkeit bedeutet verlorenen Umsatz an sichtbarere Wettbewerber."],
+      ["Welche E-Commerce-Segmente profitieren am meisten von LLMO?", "Besonders Nischen-Shops und D2C-Marken profitieren, da sie sich über KI-Empfehlungen gegen große Marktplätze positionieren können. Auch nachhaltige und spezialisierte Shops haben hier große Chancen."],
+      ["Wie beeinflusst die Produktqualität mein KI-Sentiment?", "KI-Modelle aggregieren Kundenbewertungen, Testberichte und Social-Media-Resonanz. Eine hohe Produktqualität mit positiven Bewertungen stärkt Ihr KI-Sentiment direkt und nachhaltig."],
+      ["Können KI-Empfehlungen wirklich Umsatz generieren?", "Ja, Studien zeigen, dass KI-generierte Kaufempfehlungen eine höhere Conversion-Rate haben als klassische Suchergebnisse, da Nutzer der personalisierten KI-Beratung mehr vertrauen als anonymen Linklisten."],
+      ["Was kostet der LLMO Check für E-Commerce?", "Der initiale LLMO Check ist kostenlos und liefert eine fundierte Erstanalyse Ihrer KI-Sichtbarkeit mit konkreten Optimierungsempfehlungen für Ihren Online-Shop."]
+    ]
+  }
+]
